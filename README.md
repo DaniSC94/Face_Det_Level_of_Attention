@@ -1,4 +1,6 @@
 # Face_Det_Level_of_Attention
+Detect if the user is focus on the screen of the computer by measuring the head's vertical and horizontal rotations and the distance from the screen and passing these three into a fuzzy logic algorithm to get a value of the level of attention.
+
 For this code we used:
 The fuzzy library from https://github.com/amogorkon/fuzzylogic
 As well as the face detection algorithm from https://github.com/yinguobing/head-pose-estimation.git
