@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Sanchez Cruz"
+  given-names: "Daniela"
+- family-names: "Garcia Azcarate"
+  given-names: "Raul Fernando"
+title: "Face_Det_Level_of_Attention"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2023-06-17
+url: "https://github.com/DaniSC94/Face_Det_Level_of_Attention"
